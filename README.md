@@ -1,5 +1,6 @@
 # HousePrice
-This is a mini project in ML-regression (Jadi Course)
+This is a mini project in ML-regression (Jadi Course) .
+
 Project description :
 We have collected information on approximately 4000 apartments in Tehran. All the data is completely real. Your task is to estimate the price in dollars or tomans using the features of the dataset, which are detailed below. The data is stored in the file housePrice.csv.
 
